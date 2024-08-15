@@ -1,9 +1,8 @@
 # HR-ATTRITION-DASHBOARD
 
-»Objective: Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard.
-»Skills: 
- Power BI,
- Data Cleaning,
- Data Modeling,
- Chart, 
- Data Visualization, etc.
+ 
+
+Objective: Improved employee performance and retention through an HR Analytics dashboard.
+Actions: Cleaned and modeled data; created interactive dashboards with key metrics.
+Results: Reduced employee attrition and enhanced performance management.
+Skills: Power BI, Data Cleaning, Data Modeling, Data Visualization.
